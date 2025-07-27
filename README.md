@@ -34,7 +34,7 @@ A creative landing page design for a fictional product or service, built with se
 - Clean UI/UX
 
 **Preview:**  
-![Landing Page Screenshot](LandingPage.png)
+![Landing Page Screenshot](https://github.com/aditya007-commit/CodeSoft-Web-D-projects/blob/3dbf3c4c7ba71371792ba64b2d0b45dd32ab309a/Landing%20Page.png)
 
 **Technologies Used:**
 - HTML
