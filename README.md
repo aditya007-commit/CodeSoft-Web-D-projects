@@ -17,8 +17,7 @@ A personal portfolio website showcasing your profile, skills, projects, and cont
 - Contact form (non-functional placeholder)
 
 **Preview:**  
-![Portfolio Screenshot](<img width="1100" height="601" alt="image" src="https://github.com/user-attachments/assets/c66bd1de-abf4-4b0b-ac63-016ff5ecab3b" />
-) *(Replace with your actual image path)*
+![Prtpolio Screenshot](Portpolo.png)
 
 **Technologies Used:**
 - HTML
@@ -35,7 +34,7 @@ A creative landing page design for a fictional product or service, built with se
 - Clean UI/UX
 
 **Preview:**  
-![Landing Page Screenshot](./screenshots/landing.png)
+![Landing Page Screenshot](LandingPage.png)
 
 **Technologies Used:**
 - HTML
@@ -52,7 +51,7 @@ A simple and functional calculator capable of performing basic arithmetic operat
 - Styled user interface
 
 **Preview:**  
-![Calculator Screenshot](./screenshots/calculator.png)
+![Calculator Screenshot](Calculator.png)
 
 **Technologies Used:**
 - HTML
