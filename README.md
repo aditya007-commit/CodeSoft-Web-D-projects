@@ -58,9 +58,26 @@ A simple and functional calculator capable of performing basic arithmetic operat
 - CSS
 - JavaScript
 
-**Live Demo:** [Try Calculator](#)
-
----
 
 ## 📁 Project Structure
+
+/web-projects/
+│
+├── portfolio/
+│ ├── index.html
+│ ├── style.css
+│ └── images/
+│
+├── landing-page/
+│ ├── index.html
+│ ├── style.css
+│ └── assets/
+│
+├── calculator/
+│ ├── index.html
+│ ├── style.css
+│ ├── script.js
+│ └── icons/
+│
+└── README.md
 
